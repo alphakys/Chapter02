@@ -9,14 +9,30 @@ public class GoodsApp {
 
 public static void main(String[] args) {
 		
-	String str = "1";
-	Goods na;
 	
-	System.out.println(str);
+	Goods camera1 = new Goods("nikon", 450000);
 	
-	String str1 = "ggg"; 
-		char ch1= str1.charAt(0);
-	System.out.println(ch1);
+	Goods computer1 = new Goods("LG 그램",1000000);
+	
+	
+	Goods mugcup1 = new Goods("머그컵", 4000);
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+
+	
 		Goods camera = new Goods();
 		
 		camera.name = "nikon";

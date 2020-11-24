@@ -5,7 +5,9 @@ public class PointApp {
 	public static void main(String[] args) {
 		
 
+		Point p3 = new Point(4, 7);
 		
+		System.out.println(p3.x);
 
 
 			Point p1 = new Point();
